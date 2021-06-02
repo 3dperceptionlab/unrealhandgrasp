@@ -8,4 +8,15 @@ In this project we have developed an object grasping system in Unreal Engine 4. 
 
 ## How to use  
 
+First, install Unreal Engine 4, version 2.25 or upper.
 
+```bash
+# clone project   
+git clone https://github.com/3dperceptionlab/unrealhandgrasp.git
+```
+The Environment map consists of a demo that uses this grasping system. In the Minimal default map you can grab objects and generate the dataset.
+
+## Author
+
+This project has been carried out as an end-of-degree project by:
+- David Mulero Pérez ([davidmuleroperez@gmail.com](mailto:davidmuleroperez@gmail.com))
