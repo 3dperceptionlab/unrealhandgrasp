@@ -1,6 +1,6 @@
 # UnrealHandGrasp
 
-[![Watch the video](Cover.png)](https://youtu.be/IXkU7_WnBMU)
+[![Watch the video](img/Cover.png)](https://youtu.be/IXkU7_WnBMU)
 
 ## Description   
 
@@ -10,7 +10,7 @@ In this project we have developed an object grasping system in Unreal Engine 4. 
 
 A dataset of heat maps has been created, obtained from the collisions of the virtual hand with 12 objects. It has been automated so that every time you drop the object, the texture with the heat map is saved in the Content folder of the project with the name of the object in question.
 
-![Grasp Dataset](Dataset.png)
+![Grasp Dataset](img/Dataset.png)
 
 ## How to use  
 
