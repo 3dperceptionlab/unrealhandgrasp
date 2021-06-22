@@ -27,6 +27,16 @@ The Environment map consists of a demo that uses this grasping system. In the Mi
 This project has been carried out as an end-of-degree project by:
 - David Mulero Pérez ([davidmuleroperez@gmail.com](mailto:davidmuleroperez@gmail.com))
 
+## How to cite this work?
+If you use UnrealHandGrasp, please cite:
+```
+@misc { 2021unrealhandgrasp,
+   title = {Interacción con objetos en Realidad Virtual utilizando tracking de manos},
+   author = {Mulero Pérez, David},
+   year = {2021-06-22}
+}
+```
+
 ## Credits
 
 Objects from the [Yale-CMU-Berkeley Object and Model Set](https://ieeexplore.ieee.org/document/7254318) library have been used.
