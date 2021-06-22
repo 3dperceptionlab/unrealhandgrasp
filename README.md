@@ -30,10 +30,12 @@ This project has been carried out as an end-of-degree project by:
 ## How to cite this work?
 If you use UnrealHandGrasp, please cite:
 ```
-@misc { 2021unrealhandgrasp,
+@misc{2021unrealhandgrasp,
    title = {Interacción con objetos en Realidad Virtual utilizando tracking de manos},
    author = {Mulero Pérez, David},
-   year = {2021-06-22}
+   publisher = {Repositorio Institucional de la Universidad de Alicante (RUA)},
+   url = {http://hdl.handle.net/10045/115937},
+   year = {2021}
 }
 ```
 
