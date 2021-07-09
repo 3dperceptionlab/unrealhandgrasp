@@ -74,5 +74,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 HandPoses
-HeatMaps/*/*
-!HeatMaps/*/*.uasset
+HeatMaps/*
+!HeatMaps/SingleFingers/
+!HeatMaps/AllFingers/
+
+HeatMaps/SingleFingers/*
+HeatMaps/AllFingers/*
+!HeatMaps/SingleFingers/*.uasset
+!HeatMaps/AllFingers/*.uasset
