@@ -22,13 +22,43 @@ git clone https://github.com/3dperceptionlab/unrealhandgrasp.git
 ```
 The Environment map consists of a demo that uses this grasping system. In the Minimal default map you can grab objects and generate the dataset.
 
-## Author
-
-This project has been carried out as an end-of-degree project by:
-- David Mulero Pérez ([davidmuleroperez@gmail.com](mailto:davidmuleroperez@gmail.com))
-
-## How to cite this work?
+## Publication / Citation
 If you use UnrealHandGrasp, please cite:
+```
+@inproceedings{Martinez2022_unrealhandgrasp,
+	author    = {Pablo Martinez{-}Gonzalez and
+	David Mulero{-}Perez and
+	Sergiu Oprea and
+	Manuel Benavent{-}Lledo and
+	Sergio Orts{-}Escolano and
+	Jose Garcia{-}Rodriguez},
+	title     = {Synthetic contact maps to predict grasp regions on objects},
+	booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+	pages     = {1--6},
+   doi       = {10.1109/IJCNN55064.2022.9892548},
+	year      = {2022}
+}
+```
+
+## License / Credits
+
+This code is released under the GPL-3.0 License.
+
+Objects from the [Yale-CMU-Berkeley Object and Model Set](https://ieeexplore.ieee.org/document/7254318) library have been used.
+Also, objects have been obtained from the [cgtrader](https://www.cgtrader.com) online library. Created by: alexsychov, lukass12, adren0chrome, cpenfold15, diegokrause, arthur-e.
+
+## Contact / Authors
+
+Any criticism and improvements are welcome using the issue system from this repository. For other questions, contact the corresponding authors:
+
+- David Mulero-Perez ([dmulero@dtic.ua.es](mailto:dmulero@dtic.ua.es))
+- Pablo Martinez-Gonzalez ([pmartinez@dtic.ua.es](mailto:pmartinez@dtic.ua.es))
+- Sergiu Oprea ([soprea@dtic.ua.es](mailto:soprea@dtic.ua.es))
+- Sergio Orts-Escolano ([sorts@ua.es](mailto:sorts@ua.es))
+- Jose Garcia-Rodriguez ([jgarcia@dtic.ua.es](mailto:jgarcia@dtic.ua.es))
+
+Part of this project has been carried out as an end-of-degree project by David Mulero-Perez:
+
 ```
 @misc{2021unrealhandgrasp,
    title = {Interacción con objetos en Realidad Virtual utilizando tracking de manos},
@@ -38,9 +68,3 @@ If you use UnrealHandGrasp, please cite:
    year = {2021}
 }
 ```
-
-## Credits
-
-Objects from the [Yale-CMU-Berkeley Object and Model Set](https://ieeexplore.ieee.org/document/7254318) library have been used.
-Also, objects have been obtained from the [cgtrader](https://www.cgtrader.com) online library. Created by: alexsychov, lukass12, adren0chrome, cpenfold15, diegokrause, arthur-e.
-
