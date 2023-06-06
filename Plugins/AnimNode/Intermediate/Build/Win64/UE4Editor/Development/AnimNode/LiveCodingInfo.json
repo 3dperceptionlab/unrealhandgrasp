@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnimNode.cpp.obj": [
+			"AnimNode.cpp.obj",
+			"AnimationMirrorData.cpp.obj",
+			"AnimNode_Mirror.cpp.obj"
+		],
+		"Module.AnimNode.gen.cpp.obj": [
+			"AnimationMirrorData.gen.cpp.obj",
+			"AnimNode.init.gen.cpp.obj",
+			"AnimNode_Mirror.gen.cpp.obj"
+		]
+	}
+}

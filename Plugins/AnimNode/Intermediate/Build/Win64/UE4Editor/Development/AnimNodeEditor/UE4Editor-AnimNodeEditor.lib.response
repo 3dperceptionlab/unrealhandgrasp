@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AnimNodeEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\porygon2\Desktop\unrealhandgrasp\Intermediate\Build\Win64\UnrealHandGraspEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\porygon2\Desktop\unrealhandgrasp\Plugins\AnimNode\Intermediate\Build\Win64\UE4Editor\Development\AnimNodeEditor\Module.AnimNodeEditor.cpp.obj"
+"C:\Users\porygon2\Desktop\unrealhandgrasp\Plugins\AnimNode\Intermediate\Build\Win64\UE4Editor\Development\AnimNodeEditor\Module.AnimNodeEditor.gen.cpp.obj"
+"C:\Users\porygon2\Desktop\unrealhandgrasp\Plugins\AnimNode\Intermediate\Build\Win64\UE4Editor\Development\AnimNodeEditor\Default.rc2.res"
+/OUT:"C:\Users\porygon2\Desktop\unrealhandgrasp\Plugins\AnimNode\Intermediate\Build\Win64\UE4Editor\Development\AnimNodeEditor\UE4Editor-AnimNodeEditor.lib"

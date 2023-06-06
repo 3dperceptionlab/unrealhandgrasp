@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnimNodeEditor.cpp.obj": [
+			"AnimNodeEditor.cpp.obj",
+			"AnimGraphNode_Mirror.cpp.obj"
+		],
+		"Module.AnimNodeEditor.gen.cpp.obj": [
+			"AnimGraphNode_Mirror.gen.cpp.obj",
+			"AnimNodeEditor.init.gen.cpp.obj"
+		]
+	}
+}

@@ -3,10 +3,35 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealHandGrasp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Text3D",
 			"Enabled": true
+		},
+		{
+			"Name": "HoloLensAR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "WindowsMixedReality",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens"
+			]
 		},
 		{
 			"Name": "MicrosoftOpenXR",
@@ -16,6 +41,19 @@
 				"Win64",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": true
 		}
 	]
 }

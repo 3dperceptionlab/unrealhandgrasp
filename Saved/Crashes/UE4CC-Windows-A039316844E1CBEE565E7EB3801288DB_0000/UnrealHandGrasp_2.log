@@ -1,0 +1,1265 @@
+﻿Log file open, 03/08/23 17:40:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealHandGrasp
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.209317
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Text3D
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MicrosoftOpenXR
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXRMsftHandInteraction
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMixedReality
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin AzureSpatialAnchors
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin XRVisualization
+LogPluginManager: Mounting plugin HoloLensAR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA TITAN Xp
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.08-16.40.58:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:014][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:022][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.08-16.40.58:022][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.08-16.40.58:023][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.08-16.40.58:023][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.08-16.40.58:023][  0]LogHAL: Display: Platform has ~ 16 GB [17090465792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.08-16.40.58:023][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.08-16.40.58:023][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.08-16.40.58:024][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.08-16.40.58:025][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.08-16.40.58:025][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.08-16.40.58:025][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.08-16.40.58:025][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Engine.ini]
+[2023.03.08-16.40.58:025][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Config/Windows/Editor.ini]
+[2023.03.08-16.40.58:025][  0]LogInit: Computer: GLACEON
+[2023.03.08-16.40.58:025][  0]LogInit: User: porygon2
+[2023.03.08-16.40.58:025][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.08-16.40.58:025][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.08-16.40.58:025][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.03.08-16.40.58:025][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.08-16.40.58:025][  0]LogMemory: Process Physical Memory: 162.23 MB used, 162.24 MB peak
+[2023.03.08-16.40.58:025][  0]LogMemory: Process Virtual Memory: 143.58 MB used, 143.58 MB peak
+[2023.03.08-16.40.58:025][  0]LogMemory: Physical Memory: 6448.39 MB used,  9850.35 MB free, 16298.74 MB total
+[2023.03.08-16.40.58:025][  0]LogMemory: Virtual Memory: 134204936.00 MB used,  12790.90 MB free, 134217728.00 MB total
+[2023.03.08-16.40.58:029][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.08-16.40.58:044][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.08-16.40.58:045][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.03.08-16.40.58:045][  0]LogInit: Using OS detected locale (es-ES).
+[2023.03.08-16.40.58:202][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.08-16.40.58:211][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.08-16.40.58:222][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.08-16.40.58:222][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.08-16.40.58:329][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.08-16.40.58:366][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.03.08-16.40.58:366][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.08-16.40.58:366][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.08-16.40.58:366][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.08-16.40.58:447][  0]LogD3D11RHI:    0. 'NVIDIA TITAN Xp' (Feature Level 11_0)
+[2023.03.08-16.40.58:447][  0]LogD3D11RHI:       12145/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.03.08-16.40.58:466][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.03.08-16.40.58:466][  0]LogD3D11RHI:       128/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     Description : NVIDIA TITAN Xp
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     DeviceId    : 1b02
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     SubSysId    : 11df10de
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     DedicatedVideoMemory : 12734955520 bytes
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     SharedSystemMemory : 8545232896 bytes
+[2023.03.08-16.40.58:467][  0]LogD3D11RHI:     AdapterLuid : 0 46971
+[2023.03.08-16.40.58:471][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.08-16.40.58:471][  0]LogD3D11RHI:     GPU DeviceId: 0x1b02 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.08-16.40.58:471][  0]LogWindows: EnumDisplayDevices:
+[2023.03.08-16.40.58:471][  0]LogWindows:    0. 'NVIDIA TITAN Xp' (P:1 D:1)
+[2023.03.08-16.40.58:471][  0]LogWindows:    1. 'NVIDIA TITAN Xp' (P:0 D:0)
+[2023.03.08-16.40.58:472][  0]LogWindows:    2. 'NVIDIA TITAN Xp' (P:0 D:0)
+[2023.03.08-16.40.58:472][  0]LogWindows:    3. 'NVIDIA TITAN Xp' (P:0 D:0)
+[2023.03.08-16.40.58:472][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2023.03.08-16.40.58:472][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.03.08-16.40.58:473][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.03.08-16.40.58:473][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     Adapter Name: NVIDIA TITAN Xp
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.03.08-16.40.58:473][  0]LogRHI: Texture pool is 8501 MB (70% of 12145 MB)
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     Description : NVIDIA TITAN Xp
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     DeviceId    : 1b02
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     SubSysId    : 11df10de
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     DedicatedVideoMemory : 12734955520 bytes
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     SharedSystemMemory : 8545232896 bytes
+[2023.03.08-16.40.58:473][  0]LogD3D11RHI:     AdapterLuid : 0 46971
+[2023.03.08-16.40.58:526][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.08-16.40.58:526][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.08-16.40.58:526][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.08-16.40.58:541][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.03.08-16.40.58:575][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.08-16.40.58:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.08-16.40.58:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.08-16.40.58:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.08-16.40.58:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.08-16.40.58:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.08-16.40.58:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.08-16.40.58:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.08-16.40.58:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.08-16.40.58:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.08-16.40.58:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.08-16.40.58:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.08-16.40.58:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.08-16.40.58:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.08-16.40.58:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.08-16.40.58:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.08-16.40.58:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.08-16.40.58:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.08-16.40.58:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.08-16.40.58:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.08-16.40.58:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.08-16.40.58:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.08-16.40.58:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.08-16.40.58:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.08-16.40.58:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.08-16.40.58:978][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.08-16.40.58:982][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.08-16.40.59:005][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.08-16.40.59:028][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.08-16.40.59:028][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/porygon2/Desktop/unrealhandgrasp/Intermediate/Shaders/WorkingDirectory/10380/).
+[2023.03.08-16.40.59:028][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/porygon2/AppData/Local/Temp/UnrealShaderWorkingDir/8DA5A76041E30BB4CE0D40A38C635338/'.
+[2023.03.08-16.40.59:028][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.08-16.40.59:028][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.08-16.40.59:028][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.08-16.40.59:666][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.08-16.40.59:713][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/porygon2/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.08-16.40.59:713][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/porygon2/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.08-16.40.59:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/porygon2/Desktop/unrealhandgrasp/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.08-16.40.59:713][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.08-16.40.59:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/porygon2/Desktop/unrealhandgrasp/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.08-16.40.59:713][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.08-16.40.59:727][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.08-16.40.59:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.08-16.40.59:728][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.08-16.40.59:734][  0]LogDerivedDataCache: Speed tests for C:/Users/porygon2/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.08-16.40.59:734][  0]LogDerivedDataCache: Display: Performance to C:/Users/porygon2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=310.76MBs, RandomWriteSpeed=260.42MBs. Assigned SpeedClass 'Local'
+[2023.03.08-16.40.59:735][  0]LogDerivedDataCache: Using Local data cache path C:/Users/porygon2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.08-16.40.59:735][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.08-16.40.59:735][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.08-16.40.59:773][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.08-16.40.59:773][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.08-16.40.59:793][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2023.03.08-16.41.00:005][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.08-16.41.00:005][  0]LogInit: Active device profile: [0000023FDBE13A00][0000023FD51E0800 49] Windows
+[2023.03.08-16.41.00:005][  0]LogInit: Profiles: [0000023FDBE13A00][0000023FD51E0800 49] Windows, [0000023FDBDB4800][0000023FCF5C0940 49] WindowsNoEditor, [0000023FDBE10800][0000023FD5204A80 49] WindowsServer, [0000023FDBDB6F00][0000023FD5208BC0 49] WindowsClient, [0000023FDBE12F00][0000023FD5210D40 49] IOS, [0000023FDBDB5300][0000023FD5214EC0 49] iPadAir, [0000023FDBE11200][0000023FD5219040 49] iPadAir2, [0000023FDBD37B00][0000023FCF533300 49] IPadPro, [0000023FDBD37C00][0000023FCF529340 49] iPadAir3, [0000023FDBE13000][0000023FD0D314C0 49] iPadAir4, [0000023FDBD34D00][0000023FDB8AF640 49] iPadMini2, [0000023FDBE13100][0000023FDB8B37C0 49] iPadMini3, [0000023FDBD36A00][0000023FDB8BB940 49] iPadMini4, [0000023FDBE11300][0000023FDB8BFAC0 49] iPadMini5, [0000023FDBD87400][0000023FD0D38200 49] iPhone6, [0000023FDBD87500][0000023FDB8C6240 49] iPodTouch6, [0000023FDBD36100][0000023FD82E2500 49] iPhone7, [0000023FDBD36200][0000023FD0D3C540 49] iPodTouch7, [0000023FDBD84C00][0000023FD82E66C0 49] iPhone5S, [0000023FDBD36B00][0000023FD82EA840 49] iPhone6Plus, [0000023FDBD86B00][0000023FD520C980 49] iPhone6S, [0000023FDBD35900][0000023FDCDAEAC0 49] iPhone6SPlus, [0000023FDBD87F00][0000023FDCDB2C00 49] iPhone7Plus, [0000023FDBD35F00][0000023FDCDB6D40 49] iPhoneSE, [0000023FDBD84D00][0000023FDCDBEEC0 49] iPhone8, [0000023FDBD35B00][0000023FD0D4D040 49] iPhone8Plus, [0000023FDBD86900][0000023FD0D511C0 49] iPhoneX, [0000023FDBD36300][0000023FD0D55340 49] iPhoneXS, [0000023FDBD84500][0000023FD0D594C0 49] iPhoneXSMax, [0000023FDBD36600][0000023FD0D5D640 49] iPhoneXR, [0000023FDBD86F00][0000023FDBAF37C0 49] iPhone11, [0000023FDBD34A00][0000023FDBAF7940 49] iPhone11Pro, [0000023FDBD86400][0000023FDBAFBAC0 49] iPhone11ProMax, [0000023FDBD34100][0000023FDBB6E0C0 49] iPhoneSE2, [0000023FDBD84B00][0000023FDBB72240 49] iPhone12Mini, [0000023FDBD35700][0000023FD51903C0 49] iPhone12, [0000023FDBD84800][0000023FD5194540 49] iPhone12Pro, [0000023FDBD35100][0000023FD51986C0 49] iPhone12ProMax, [0000023FDBD84900][0000023FD519C840 49] iPadPro105, [0000023FDBD37600][0000023FD51A09C0 49] iPadPro129, [0000023FDBD85100][0000023FD51AAB40 49] iPadPro97, [0000023FDBD36D00][0000023FDCDBAC80 49] iPadPro2_129, [0000023FDBD86300][0000023FD51AEDC0 49] iPad5, [0000023FDBD36500][0000023FD51B2F00 49] iPad6, [0000023FDBD85A00][0000023FD51BB080 49] iPad7, [0000023FDBD37400][0000023FD51BF200 49] iPad8, [0000023FDBD87700][0000023FD51DD380 49] iPadPro11, [0000023FDBD36400][0000023FDBBAB500 49] iPadPro2_11, [0000023FDBD84200][0000023FDBBB7680 49] iPadPro3_129, [0000023FDBD36900][0000023FDBBBB800 49] iPadPro4_129, [0000023FDBD87300][0000023FDBBBF980 49] AppleTV, [0000023FDBD37500][0000023FDBBC3B00 49] AppleTV4K, [0000023FDBD86000][0000023FDBBC6100 49] TVOS, [0000023FDBD35800][0000023FDBBCA280 49] Mac, [0000023FDBD85F00][0000023FDBBCE400 49] MacClient, [0000023FDBD36000][0000023FDBBD2580 49] MacNoEditor, [0000023FDBD86E00][0000023FDBBD6700 49] MacServer, [0000023FDBD34B00][0000023FD51EA880 49] Linux, [0000023FDBD86C00][0000023FD51EEA00 49] LinuxAArch64, [0000023FDBD36700][0000023FD51F2B80 49] LinuxNoEditor, [0000023FDBDB6700][0000023FD51F6D00 49] LinuxAArch64NoEditor, [0000023FDBE41400][0000023FD51B6E40 49] LinuxClient, [0000023FDBDB6500][0000023FDBBDAF80 49] LinuxAArch64Client, [0000023FDBE42F00][0000023FDCFB30C0 49] LinuxServer, [0000023FDBDB5A00][0000023FD51FF240 49] LinuxAArch64Server, [0000023FDBE40900][0000023FD0CC33C0 49] Android, [0000023FDBDB4A00][0000023FD0CC7540 49] Android_Low, [0000023FDBE41F00][0000023FCF50F6C0 49] Android_Mid, [0000023FDBDB6A00][0000023FCF513840 49] Android_High, [0000023FDBE42300][0000023FCF5179C0 49] Android_Default, [0000023FDBDB7100][0000023FCF51BB40 49] Android_Adreno4xx, [0000023FDBE42200][0000023FCF51E140 49] Android_Adreno5xx_Low, [0000023FDBDB7C00][0000023FCF5222C0 49] Android_Adreno5xx, [0000023FDBE41A00][0000023FDB88A440 49] Android_Adreno6xx, [0000023FDBDB4200][0000023FDB88E5C0 49] Android_Adreno6xx_Vulkan, [0000023FDBE41600][0000023FDB8C2740 49] Android_Mali_T6xx, [0000023FDBDB6400][0000023FDCFAE8C0 49] Android_Mali_T7xx, [0000023FDBE41000][0000023FD0D34A40 49] Android_Mali_T8xx, [0000023FDBDB4100][0000023FDB892BC0 49] Android_Mali_G71, [0000023FDBE41100][0000023FDB896D40 49] Android_Mali_G72, [0000023FDBDB5800][0000023FDB89AEC0 49] Android_Mali_G72_Vulkan, [0000023FDBE40500][0000023FD51FB000 49] Android_Mali_G76, [0000023FDBDB4300][0000023FDB89F140 49] Android_Mali_G76_Vulkan, [0000023FDBE42900][0000023FDB8A3280 49] Android_Mali_G77, [0000023FDBD36F00][0000023FDB8A73C0 49] Android_Mali_G77_Vulkan, [0000023FDBE42C00][0000023FDCFBF540 49] Android_Mali_G78, [0000023FDBD34700][0000023FDCFC36C0 49] Android_Mali_G78_Vulkan, [0000023FDBE40600][0000023FDCFC7840 49] Android_Mali_G710, [0000023FDBD37100][0000023FDCFCB9C0 49] Android_Mali_G710_Vulkan, [0000023FDBE42700][0000023FDCFCFB40 49] Android_Vulkan_SM5, [0000023FDBD34400][0000023FDCFD2140 49] Android_PowerVR_G6xxx, [0000023FDBE41D00][0000023FDCFD62C0 49] Android_PowerVR_GT7xxx, [0000023FDBD35200][0000023FDCFDA440 49] Android_PowerVR_GE8xxx, [0000023FDBE40B00][0000023FDCFDE5C0 49] Android_PowerVR_GM9xxx, [0000023FDBD37200][0000023FDCFE2740 49] Android_PowerVR_GM9xxx_Vulkan, [0000023FDBE41900][0000023FD827A8C0 49] Android_TegraK1, [0000023FDBD37300][0000023FD827EA40 49] Android_Unknown_Vulkan, [0000023FDBE42500][0000023FD8282BC0 49] Lumin, [0000023FDBD35000][0000023FD8286D40 49] Lumin_Desktop, [0000023FDBE40A00][0000023FD828AEC0 49] HoloLens, 
+[2023.03.08-16.41.00:125][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.08-16.41.00:125][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.08-16.41.00:125][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.08-16.41.00:125][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.08-16.41.00:125][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.08-16.41.00:137][  0]LogNetVersion: UnrealHandGrasp 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2047092056)
+[2023.03.08-16.41.00:448][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.08-16.41.00:496][  0]LogUObjectArray: 17219 objects as part of root set at end of initial load.
+[2023.03.08-16.41.00:496][  0]LogUObjectAllocator: 4314632 out of 0 bytes used by permanent object pool.
+[2023.03.08-16.41.00:497][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.08-16.41.00:695][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3E69F2FE493A66E66712C4AD39603225 | Instance: A2B53093406E85CA2842FEB20D5740EC (GLACEON-10380).
+[2023.03.08-16.41.00:724][  0]LogPython: Using Python 3.7.7
+[2023.03.08-16.41.01:234][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.08-16.41.01:237][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.08-16.41.01:470][  0]SourceControl: Source control is disabled
+[2023.03.08-16.41.01:471][  0]SourceControl: Source control is disabled
+[2023.03.08-16.41.01:473][  0]SourceControl: Source control is disabled
+[2023.03.08-16.41.01:475][  0]SourceControl: Source control is disabled
+[2023.03.08-16.41.01:477][  0]SourceControl: Source control is disabled
+[2023.03.08-16.41.01:497][  0]LogUProjectInfo: Found projects:
+[2023.03.08-16.41.01:511][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.08-16.41.01:563][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.08-16.41.01:579][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.08-16.41.01:579][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.08-16.41.01:676][  0]LogCollectionManager: Loaded 0 collections in 0.001419 seconds
+[2023.03.08-16.41.01:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/porygon2/Desktop/unrealhandgrasp/Saved/Collections/' took 0.00s
+[2023.03.08-16.41.01:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/porygon2/Desktop/unrealhandgrasp/Content/Developers/porygon2/Collections/' took 0.00s
+[2023.03.08-16.41.01:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/porygon2/Desktop/unrealhandgrasp/Content/Collections/' took 0.00s
+[2023.03.08-16.41.01:728][  0]LogClass: Display: StructProperty FPointerPoseInfo::Origin is not initialized properly. Module:WindowsMixedRealityHMD File:Public/WindowsMixedRealityFunctionLibrary.h
+[2023.03.08-16.41.01:728][  0]LogClass: Display: StructProperty FPointerPoseInfo::Direction is not initialized properly. Module:WindowsMixedRealityHMD File:Public/WindowsMixedRealityFunctionLibrary.h
+[2023.03.08-16.41.01:728][  0]LogClass: Display: StructProperty FPointerPoseInfo::Up is not initialized properly. Module:WindowsMixedRealityHMD File:Public/WindowsMixedRealityFunctionLibrary.h
+[2023.03.08-16.41.01:728][  0]LogClass: Display: StructProperty FPointerPoseInfo::Orientation is not initialized properly. Module:WindowsMixedRealityHMD File:Public/WindowsMixedRealityFunctionLibrary.h
+[2023.03.08-16.41.01:728][  0]LogClass: Display: EnumProperty FPointerPoseInfo::TrackingStatus is not initialized properly. Module:WindowsMixedRealityHMD File:Public/WindowsMixedRealityFunctionLibrary.h
+[2023.03.08-16.41.01:729][  0]LogClass: Display: 5 Uninitialized script struct members found including 0 object properties
+[2023.03.08-16.41.01:730][  0]LogEngine: Initializing Engine...
+[2023.03.08-16.41.01:763][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.03.08-16.41.01:769][  0]LogHMD: Optional extension XR_KHR_opengl_enable is not available
+[2023.03.08-16.41.01:769][  0]LogHMD: Optional extension XR_KHR_vulkan_enable is not available
+[2023.03.08-16.41.01:769][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.03.08-16.41.01:769][  0]LogHMD: Warning: Required extension XR_MSFT_secondary_view_configuration is not available
+[2023.03.08-16.41.01:769][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXRExtensionPlugin on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.03.08-16.41.01:769][  0]LogHMD: Warning: Required extension XR_MSFT_hand_tracking_mesh is not available
+[2023.03.08-16.41.01:769][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXRExtensionPlugin on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.03.08-16.41.01:770][  0]LogHMD: Optional extension XR_MSFT_perception_anchor_interop is not available
+[2023.03.08-16.41.01:870][  0]LogHMD: HolographicRemotingPlugin::SetRemotingStatusText: Connecting...
+[2023.03.08-16.41.01:930][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.08-16.41.02:025][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.08-16.41.02:031][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.08-16.41.02:043][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.08-16.41.02:045][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.08-16.41.02:046][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.08-16.41.02:046][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.08-16.41.02:046][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-16.41.02:046][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-16.41.02:046][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-16.41.02:047][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-16.41.02:047][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-16.41.02:047][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-16.41.02:047][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-16.41.02:057][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-16.41.02:057][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-16.41.02:083][  0]LogAudioMixer: Display: Using Audio Device Altavoces (2- High Definition Audio Device)
+[2023.03.08-16.41.02:085][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-16.41.02:086][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-16.41.02:086][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-16.41.02:087][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-16.41.02:087][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-16.41.02:087][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-16.41.02:088][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-16.41.02:088][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-16.41.02:088][  0]LogInit: FAudioDevice initialized.
+[2023.03.08-16.41.02:088][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.08-16.41.02:089][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.08-16.41.02:201][  0]LogDerivedDataCache: Saved boot cache 0.11s 94MB C:/Users/porygon2/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.08-16.41.02:204][  0]LogInit: Texture streaming: Enabled
+[2023.03.08-16.41.02:212][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.08-16.41.02:214][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.08-16.41.02:214][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.08-16.41.02:216][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.08-16.41.02:234][  0]LogInit: Transaction tracking system initialized
+[2023.03.08-16.41.02:249][  0]BlueprintLog: New page: Editor Load
+[2023.03.08-16.41.02:291][  0]LocalizationService: Localization service is disabled
+[2023.03.08-16.41.02:308][  0]TimingProfiler: Initialize
+[2023.03.08-16.41.02:308][  0]TimingProfiler: OnSessionChanged
+[2023.03.08-16.41.02:308][  0]LoadingProfiler: Initialize
+[2023.03.08-16.41.02:308][  0]LoadingProfiler: OnSessionChanged
+[2023.03.08-16.41.02:308][  0]NetworkingProfiler: Initialize
+[2023.03.08-16.41.02:308][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.08-16.41.02:308][  0]MemoryProfiler: Initialize
+[2023.03.08-16.41.02:308][  0]MemoryProfiler: OnSessionChanged
+[2023.03.08-16.41.02:422][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.08-16.41.02:422][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.08-16.41.02:577][  0]LogFileCache: Scanning file cache for directory 'C:/Users/porygon2/Desktop/unrealhandgrasp/Content/' took 0.01s
+[2023.03.08-16.41.02:733][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.08-16.41.02:735][  0]SourceControl: Source control is disabled
+[2023.03.08-16.41.02:735][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.588
+[2023.03.08-16.41.02:736][  0]Cmd: MAP LOAD FILE="../../../../../../Users/porygon2/Desktop/unrealhandgrasp/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.08-16.41.02:736][  0]LightingResults: New page: Lighting Build
+[2023.03.08-16.41.02:737][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-16.41.02:737][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-16.41.02:737][  0]MapCheck: New page: Map Check
+[2023.03.08-16.41.02:737][  0]LightingResults: New page: Lighting Build
+[2023.03.08-16.41.02:741][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-16.41.02:744][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.03.08-16.41.02:754][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:754][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by MannequinHand_AnimBP_C
+[2023.03.08-16.41.02:754][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:754][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by MannequinHand_AnimBP_C
+[2023.03.08-16.41.02:754][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:754][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by MannequinHand_AnimBP_C
+[2023.03.08-16.41.02:754][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by MannequinHand_AnimBP_C
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by MannequinHand_AnimBP_C
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:755][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:755][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:756][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:756][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:757][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:757][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:757][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:757][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:757][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:757][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by ExecuteUbergraph_MannequinHand_AnimBP
+[2023.03.08-16.41.02:791][  0]LogLinker: Warning: Asset '../../../../../../Users/porygon2/Desktop/unrealhandgrasp/Content/Materials/PB_MaterialBase.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.08-16.41.02:793][  0]LogLinker: Warning: Asset '../../../../../../Users/porygon2/Desktop/unrealhandgrasp/Content/Textures/Blank.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.08-16.41.02:794][  0]LogLinker: Warning: Asset '../../../../../../Users/porygon2/Desktop/unrealhandgrasp/Content/Textures/Blank_Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.08-16.41.02:829][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Hands\Models\OculusHand_R_Skeleton_AnimBlueprint.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:829][  0]LoadErrors: Failed to load /Game/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/OculusHand_R_Skeleton_AnimBlueprint.OculusHand_R_Skeleton_AnimBlueprint_C Referenced by HandMesh_GEN_VARIABLE
+[2023.03.08-16.41.02:829][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Hands\Models\OculusHand_R_Skeleton_AnimBlueprint.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:829][  0]LoadErrors: Failed to load /Game/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/OculusHand_R_Skeleton_AnimBlueprint.OculusHand_R_Skeleton_AnimBlueprint_C Referenced by HandMesh_GEN_VARIABLE
+[2023.03.08-16.41.02:830][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:830][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by OculusHand_R_Skeleton_AnimBlueprint_C
+[2023.03.08-16.41.02:830][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:830][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by HandMesh_GEN_VARIABLE
+[2023.03.08-16.41.02:830][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:830][  0]LoadErrors: Failed to load /Script/OculusInput Referenced by HandMesh_GEN_VARIABLE
+[2023.03.08-16.41.02:832][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:832][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by OculusHand_R_Skeleton_AnimBlueprint
+[2023.03.08-16.41.02:833][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:833][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_6
+[2023.03.08-16.41.02:833][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:833][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_6
+[2023.03.08-16.41.02:833][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:833][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_5
+[2023.03.08-16.41.02:833][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:833][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_5
+[2023.03.08-16.41.02:876][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:876][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:876][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:876][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:876][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:876][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:877][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:877][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by MannequinHand_AnimBP
+[2023.03.08-16.41.02:877][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:878][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by MannequinHand_AnimBP
+[2023.03.08-16.41.02:878][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:878][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by MannequinHand_AnimBP
+[2023.03.08-16.41.02:878][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:878][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by MannequinHand_AnimBP
+[2023.03.08-16.41.02:878][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:878][  0]LoadErrors: Failed to load /Script/OculusInput.OculusInputFunctionLibrary Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:878][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:878][  0]LoadErrors: Failed to load /Script/OculusInput.OculusInputFunctionLibrary Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:878][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:878][  0]LoadErrors: Failed to load /Script/OculusInput.Default__OculusInputFunctionLibrary Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:879][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:879][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:879][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:879][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:879][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:879][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_ForEachElementInEnum_2
+[2023.03.08-16.41.02:879][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:879][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_ForEachElementInEnum_2
+[2023.03.08-16.41.02:879][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:879][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableGet_8
+[2023.03.08-16.41.02:880][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:880][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_6
+[2023.03.08-16.41.02:880][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:880][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_6
+[2023.03.08-16.41.02:880][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:880][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_5
+[2023.03.08-16.41.02:880][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:880][  0]LoadErrors: Failed to load /Script/OculusInput.EOculusHandType Referenced by K2Node_VariableSet_5
+[2023.03.08-16.41.02:880][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:880][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableSet_7
+[2023.03.08-16.41.02:880][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:880][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableSet_7
+[2023.03.08-16.41.02:881][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:881][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_3
+[2023.03.08-16.41.02:881][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:881][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_3
+[2023.03.08-16.41.02:881][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:881][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_3
+[2023.03.08-16.41.02:881][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:881][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_6
+[2023.03.08-16.41.02:881][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:881][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_6
+[2023.03.08-16.41.02:881][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:881][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_6
+[2023.03.08-16.41.02:886][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:886][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_9
+[2023.03.08-16.41.02:886][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:886][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_4
+[2023.03.08-16.41.02:886][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:886][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_4
+[2023.03.08-16.41.02:886][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:886][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_10
+[2023.03.08-16.41.02:886][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:886][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_5
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_5
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_11
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_6
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_6
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_22
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_7
+[2023.03.08-16.41.02:887][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:887][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_7
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_10
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_10
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_25
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_11
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_26
+[2023.03.08-16.41.02:888][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:888][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_12
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_12
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_27
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_13
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_13
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_28
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_14
+[2023.03.08-16.41.02:889][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:889][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_14
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_29
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_15
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_15
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_30
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_16
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_16
+[2023.03.08-16.41.02:890][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:890][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_31
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_17
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_17
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_32
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_18
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_18
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_33
+[2023.03.08-16.41.02:891][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:891][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_8
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_8
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_23
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_9
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_9
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_24
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_19
+[2023.03.08-16.41.02:892][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:892][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_19
+[2023.03.08-16.41.02:893][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:893][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_34
+[2023.03.08-16.41.02:893][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:893][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_3
+[2023.03.08-16.41.02:893][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:893][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_CallFunction_3
+[2023.03.08-16.41.02:893][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_Motion_Hand_Controller.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.02:893][  0]LoadErrors: Failed to load /Script/OculusInput.EBone Referenced by K2Node_VariableGet_8
+[2023.03.08-16.41.02:981][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] In use pin  Enum Value  no longer exists on node  ForEach UNKNOWN . Please refresh node or break links to remove pin.
+[2023.03.08-16.41.02:981][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] No Enum in  ForEach UNKNOWN
+[2023.03.08-16.41.02:982][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] In use pin  Device Hand  no longer exists on node  Get Bone Rotation . Please refresh node or break links to remove pin.
+[2023.03.08-16.41.02:982][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] In use pin  Bone Id  no longer exists on node  Get Bone Rotation . Please refresh node or break links to remove pin.
+[2023.03.08-16.41.02:982][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Get Bone Rotation . Please refresh node or break links to remove pin.
+[2023.03.08-16.41.02:982][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] Could not find a function named "GetBoneRotation" in 'MannequinHand_AnimBP'.
+Make sure 'MannequinHand_AnimBP' has been compiled for  Get Bone Rotation
+[2023.03.08-16.41.02:987][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] No Enum in  ForEach UNKNOWN
+[2023.03.08-16.41.02:990][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] No Enum in  ForEach UNKNOWN
+[2023.03.08-16.41.02:991][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] Unexpected node type K2Node_ForEachElementInEnum encountered at  ForEach UNKNOWN
+[2023.03.08-16.41.03:035][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] Unexpected node type K2Node_ForEachElementInEnum encountered at  ForEach UNKNOWN
+[2023.03.08-16.41.03:057][  0]LogClass: Warning: Failed to find enum 'None' when converting property 'OculusHandType' during property loading - setting to 0
+[2023.03.08-16.41.03:057][  0]LogClass: Warning: Failed to find enum 'None' when converting property 'bonee' during property loading - setting to 0
+[2023.03.08-16.41.03:057][  0]LogClass: Warning: Failed to find enum 'None' when converting property 'None' during property loading - setting to 0
+[2023.03.08-16.41.03:057][  0]LogBlueprint: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: [Compiler] Can't parse default value 'NewEnumerator0' for  Rotation Values . Property: Rotation Values.
+[2023.03.08-16.41.03:059][  0]LogClass: Warning: Failed to find enum 'None' when converting property 'OculusHandType' during property loading - setting to 0
+[2023.03.08-16.41.03:069][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.03:069][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.03:069][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.03:069][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.03:069][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.03:069][  0]LogLinker: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualReality\Mannequin\Animations\MannequinHand_AnimBP.uasset: Failed to load '/Script/OculusInput': Can't find file.
+[2023.03.08-16.41.03:211][  0]LogBlueprint: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_MotionController.uasset: [Compiler] OnComponentHit (ControllerMesh)  does not have a valid matching component!
+[2023.03.08-16.41.03:263][  0]LogBlueprint: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] Cast To BP_Motion_Hand_Controller  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.03.08-16.41.03:265][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] Can't connect pins  Oculus Hand  and  Target : Object Reference is not compatible with Poseable Mesh Component Object Reference.
+[2023.03.08-16.41.03:265][  0]LogBlueprint: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] Could not find a variable named "OculusHand" in 'BP_Motion_Hand_Controller_C'.
+Make sure 'BP_Motion_Hand_Controller_C' has been compiled for  Get OculusHand
+[2023.03.08-16.41.03:265][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] Can't connect pins  Target  and  Oculus Hand : Poseable Mesh Component Object Reference is not compatible with Object Reference.
+[2023.03.08-16.41.03:270][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] This blueprint (self) is not a BP_Motion_Hand_Controller_C, therefore ' Target ' must have a connection.
+[2023.03.08-16.41.03:271][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] This blueprint (self) is not a BP_Motion_Hand_Controller_C, therefore ' Target ' must have a connection.
+[2023.03.08-16.41.03:271][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] Variable node  Get OculusHand  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.03.08-16.41.03:271][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] The property associated with  Oculus Hand  could not be found in '/Game/UnrealGrasp/VirtualRealityBP/Blueprints/BP_PickupCubeDataset.BP_PickupCubeDataset_C'
+[2023.03.08-16.41.03:271][  0]LogBlueprint: Error: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\BP_PickupCubeDataset.uasset: [Compiler] Variable node  Get HandMesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.03.08-16.41.03:327][  0]LogBlueprint: Warning: [AssetLog] C:\Users\porygon2\Desktop\unrealhandgrasp\Content\UnrealGrasp\VirtualRealityBP\Blueprints\UserPawn.uasset: [Compiler] InputAxisKey Event specifies invalid FKey'OculusHand_Right_IndexPinchStrength' for  OculusHand_Right_IndexPinchStrength
+[2023.03.08-16.41.04:113][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.03.08-16.41.04:113][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.03.08-16.41.04:130][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.08-16.41.04:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.03.08-16.41.04:141][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.08-16.41.04:142][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
+[2023.03.08-16.41.04:142][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.405
+[2023.03.08-16.41.04:144][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.996
+[2023.03.08-16.41.04:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-16.41.04:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-16.41.04:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-16.41.04:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-16.41.04:268][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3834 classes and 953 folders.
+[2023.03.08-16.41.04:288][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.08-16.41.04:290][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.08-16.41.04:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-16.41.04:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.08-16.41.04:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.03.08-16.41.04:290][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.08-16.41.04:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.08-16.41.04:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.08-16.41.04:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.03.08-16.41.04:291][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.08-16.41.04:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.08-16.41.04:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.08-16.41.04:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:291][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-16.41.04:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-16.41.04:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.08-16.41.04:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.03.08-16.41.04:292][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.08-16.41.04:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.08-16.41.04:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.08-16.41.04:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.03.08-16.41.04:292][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.08-16.41.04:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.08-16.41.04:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.08-16.41.04:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:293][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.08-16.41.04:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.08-16.41.04:293][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:293][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.08-16.41.04:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:293][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.08-16.41.04:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.08-16.41.04:293][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:293][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.08-16.41.04:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:294][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.08-16.41.04:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.08-16.41.04:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.08-16.41.04:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:294][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.08-16.41.04:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.08-16.41.04:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.08-16.41.04:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.08-16.41.04:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.08-16.41.04:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.08-16.41.04:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.08-16.41.04:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:295][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-16.41.04:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.08-16.41.04:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.08-16.41.04:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.08-16.41.04:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.08-16.41.04:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.08-16.41.04:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:297][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.08-16.41.04:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-16.41.04:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.08-16.41.04:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.08-16.41.04:297][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.08-16.41.04:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.08-16.41.04:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.08-16.41.04:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.08-16.41.04:298][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.08-16.41.04:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.08-16.41.04:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.08-16.41.04:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.03.08-16.41.04:298][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-16.41.04:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-16.41.04:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.08-16.41.04:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:299][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-16.41.04:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-16.41.04:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.08-16.41.04:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:299][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.08-16.41.04:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-16.41.04:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.08-16.41.04:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:300][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.08-16.41.04:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.08-16.41.04:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.08-16.41.04:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.03.08-16.41.04:300][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.08-16.41.04:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.08-16.41.04:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.08-16.41.04:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:301][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.08-16.41.04:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.08-16.41.04:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.08-16.41.04:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.03.08-16.41.04:301][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-16.41.04:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-16.41.04:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.08-16.41.04:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:302][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.08-16.41.04:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-16.41.04:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.08-16.41.04:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-16.41.04:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.08-16.41.04:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-16.41.04:335][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.08-16.41.04:342][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.03.08-16.41.04:722][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.08-16.41.04:849][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.08-16.41.04:850][  0]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.08-16.41.04:851][  0]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.08-16.41.04:926][  0]LogRenderer: Reallocating scene render targets to support 880x328 Format 10 NumSamples 1 (Frame:1).
+[2023.03.08-16.41.05:454][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.08-16.41.05:522][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.08-16.41.05:524][  0]LogInput: Warning: Action Screenshot uses invalid key MotionController_Right_FaceButton1.
+[2023.03.08-16.41.05:524][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.03.08-16.41.05:524][  0]LogLoad: (Engine Initialization) Total time: 8.38 seconds
+[2023.03.08-16.41.05:524][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.08-16.41.05:576][  0]LogAssetRegistry: Asset discovery search completed in 5.7838 seconds
+[2023.03.08-16.41.05:580][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.03.08-16.41.05:581][  0]LogHMD: HolographicRemotingPlugin::SetRemotingStatusText: Connected
+[2023.03.08-16.41.05:581][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.08-16.41.05:672][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.08-16.41.05:685][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/porygon2/Desktop/unrealhandgrasp/Content/' took 0.14s
+[2023.03.08-16.41.08:589][303]LogSlate: Window 'Message Log' being destroyed
+[2023.03.08-16.41.08:593][303]LogSlate: Window 'Message Log' being destroyed
+[2023.03.08-16.41.17:880][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-16.41.17:880][367]BlueprintLog: Warning: Blueprint failed to compile:  BP_PickupCubeDataset
+[2023.03.08-16.41.17:880][367]BlueprintLog: Warning: Blueprint failed to compile:  MannequinHand_AnimBP
+[2023.03.08-16.41.17:880][367]LogCustomDialog: Dialog displayed:
+[2023.03.08-16.41.19:545][367]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.03.08-16.41.19:549][367]PIE: New page: PIE session: Minimal_Default (8 mar. 2023 18:41:19)
+[2023.03.08-16.41.19:550][367]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.08-16.41.19:551][367]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.08-16.41.19:552][367]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.03.08-16.41.19:555][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003560s)
+[2023.03.08-16.41.19:556][367]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.03.08-16.41.19:556][367]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.03.08-16.41.19:556][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004492s)
+[2023.03.08-16.41.19:561][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.08-16.41.19:562][367]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-16.41.19:562][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-16.41.19:562][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-16.41.19:563][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-16.41.19:563][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-16.41.19:563][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-16.41.19:563][367]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-16.41.19:565][367]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-16.41.19:565][367]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-16.41.19:573][367]LogAudioMixer: Display: Using Audio Device Altavoces (2- High Definition Audio Device)
+[2023.03.08-16.41.19:573][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-16.41.19:573][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-16.41.19:573][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-16.41.19:573][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-16.41.19:573][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-16.41.19:573][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-16.41.19:574][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-16.41.19:574][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-16.41.19:574][367]LogInit: FAudioDevice initialized.
+[2023.03.08-16.41.19:574][367]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.03.08-16.41.19:581][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-16.41.19:582][367]LogAOA: Warning: Current OpenXR runtime does not support Azure Object Anchors.  Requires XR_MSFT_SPATIAL_GRAPH_BRIDGE version 2.
+[2023.03.08-16.41.19:633][367]LogLoad: Game class is 'GameModeBase'
+[2023.03.08-16.41.19:637][367]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.03.08-17.41.19
+[2023.03.08-16.41.19:638][367]LogWorld: Bringing up level for play took: 0.003304
+[2023.03.08-16.41.19:638][367]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.08-16.41.19:640][367]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+PlayerController.ClientRestart
+
+[2023.03.08-16.41.19:690][367]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.050 s
+[2023.03.08-16.41.19:690][367]LogOutputDevice: Error: === Handled ensure: ===
+[2023.03.08-16.41.19:690][367]LogOutputDevice: Error: 
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: Ensure condition failed: AxisKey.IsAxis1D() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h] [Line: 553]
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: 
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: Stack: 
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc4a58b19 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3832138 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3830f6a UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3d3efd0 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3e52059 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc469631c UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ffff6e719c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ffff7153ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc304942a UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc4690a19 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3e73c5d UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc35c8544 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3947e3a UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3e6d8ae UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc3e8105b UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc395b769 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc39b98ad UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffc378e9de UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd5722c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd574622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd572397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd5763772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd5766d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd57665f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd51c0c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007fffd5ac2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff685ad87a0 UE4Editor.exe!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff685af0fcc UE4Editor.exe!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff685af10ba UE4Editor.exe!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff685af40dd UE4Editor.exe!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff685b05984 UE4Editor.exe!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff685b0853a UE4Editor.exe!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff8385e7614 KERNEL32.DLL!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: [Callstack] 0x00007ff839a426a1 ntdll.dll!UnknownFunction []
+[2023.03.08-16.41.19:691][367]LogOutputDevice: Error: 
