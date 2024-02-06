@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualRealityBP/Blueprints/BP_PickupCube.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualRealityBP/Blueprints/BP_Motion_Hand_Controller.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualRealityBP/Blueprints/BP_MotionController.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualRealityBP/Blueprints/BP_PickupCubeDataset.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/OculusHand_R_Skeleton_AnimBlueprint.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/RealisticHands_AnimBlueprint.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/IBFPSArms/Arms/FPSArms_Skeleton_AnimBlueprint.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/IBFPSArms/Arms/FPSArms_Skeleton_Sequence_Run.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/IBFPSArms/Arms/FPSArms_Skeleton.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/OculusHand_IKRig.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/Test_OculusHand_R_Skeleton.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/NewIKRetargeter.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/IBFPSArms/Arms/IKRig_FPSArms.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/IBFPSArms/Arms/FPSArms_Skeleton_AnimBlueprintRetarget.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/NewLevelSequence.uasset",
+				"C:/Users/david/Desktop/unrealhandgrasp/Content/UnrealGrasp/VirtualReality/Mannequin/Hands/Models/OcRealisticHands_AnimBlueprint.uasset"
+			]
+		}
+	]
+}
